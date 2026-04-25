@@ -175,8 +175,8 @@ json2scss.convertJs([1, 2, 3]); // (1, 2, 3)
 
 _For more, please refer to the [View Demo](https://codesandbox.io/s/json2scss-map-demo-phcsf?file=/theme/output.scss)_
 
-Alternatively, If you're using custom Webpack Configuration, you can use this tool to easily import JSON files and get the correct values.
-[Json2scss-map-webpack-importer](https://www.npmjs.com/package/json2scss-map-webpack-importer)
+Alternatively, If you're using a custom Webpack Configuration, you can use this tool to easily import JSON or javascript files and get the correct values.
+[@strawburster/sass-json-loader](https://codeberg.org/strawburster/-/packages/npm/@strawburster%2Fsass-json-loader)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
